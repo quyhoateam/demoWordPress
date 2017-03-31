@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto&subset=latin,vietnamese,greek-ext,greek,latin-ext,cyrillic-ext,cyrillic);
+#login h1 a{background: url(logo.png) no-repeat center!important;display:block;=: 16pxoutline:0noneoverflow:hiddenpadding-bottom:18pxtext-indent:-9999px;width: 280px;margin: 0px!important;height: 60px!important;}
+.login{font-family:'Arial',sans-serif;font-size:15px!important}
+.login label,.login #backtoblog,.login #nav{font-size:13px!important;font-weight:700!important}
+#login{margin:auto;padding:4% 0 0;width:330px;border-top:0;border-bottom:0}
+.login form .input{border:none;padding:10px;font-size:13px!important;font-weight:700!important;background-color: rgba(241, 241, 241, 0.61);border-left: 4px solid #2bafec;box-shadow:0 1px 1px 0 rgba(0,0,0,0.1);margin-top: 7px;}
+.wp-core-ui .button-primary{background: #2bafec;border-color: #2bafec;box-shadow:none;color:#FFF;text-decoration:none;border-radius:2px;text-transform:uppercase;font-size:15px;}
+.wp-core-ui .button-primary:hover,.wp-core-ui .button-primary.focus,.wp-core-ui .button-primary:focus{background: #2bafec;border-color: #2bafec;box-shadow:none;}
+.wp-core-ui .button.button-large,.wp-core-ui .button-group.button-large .button{height:38px;line-height:28px;padding:5px 0;margin-top:10px;font-weight:700;font-size:13px;border-radius: 0px!important;width:274px;}
